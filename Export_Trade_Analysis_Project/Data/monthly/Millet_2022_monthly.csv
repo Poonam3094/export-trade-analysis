@@ -1,0 +1,405 @@
+typeCode,freqCode,refYear,refMonth,period,reporterDesc,flowDesc,partnerDesc,cmdCode,cmdDesc,qtyUnitAbbr,qty,netWgt,primaryValue
+C,M,2022,1,202201,India,Export,World,100829,"Cereals; millet, other than seed",kg,4398110,4398110,1476491.188
+C,M,2022,1,202201,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,27000,27000,14620.887
+C,M,2022,1,202201,India,Export,Angola,100829,"Cereals; millet, other than seed",kg,200,200,189.299
+C,M,2022,1,202201,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,97805,97805,32737.056
+C,M,2022,1,202201,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,240,240,463.328
+C,M,2022,1,202201,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,32774,32774,25934.219
+C,M,2022,1,202201,India,Export,Dem. Rep. of the Congo,100829,"Cereals; millet, other than seed",kg,30,30,33.392
+C,M,2022,1,202201,India,Export,Fiji,100829,"Cereals; millet, other than seed",kg,1000,1000,1503.7
+C,M,2022,1,202201,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,158,158,181.159
+C,M,2022,1,202201,India,Export,Hungary,100829,"Cereals; millet, other than seed",kg,21000,21000,14492.906
+C,M,2022,1,202201,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,64000,64000,33750.752
+C,M,2022,1,202201,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,1310,1310,490.353
+C,M,2022,1,202201,India,Export,Rep. of Korea,100829,"Cereals; millet, other than seed",kg,21000,21000,10493.032
+C,M,2022,1,202201,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,175500,175500,59652.022
+C,M,2022,1,202201,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,415000,415000,165819.161
+C,M,2022,1,202201,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,13000,13000,7968.598
+C,M,2022,1,202201,India,Export,"Other Asia, nes",100829,"Cereals; millet, other than seed",kg,30000,30000,14624.473
+C,M,2022,1,202201,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,240000,240000,84276.448
+C,M,2022,1,202201,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,335080,335080,97839.89
+C,M,2022,1,202201,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,106390,106390,30802.184
+C,M,2022,1,202201,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,1252,1252,1381.387
+C,M,2022,1,202201,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,90,90,51.485
+C,M,2022,1,202201,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,223372,223372,70394.059
+C,M,2022,1,202201,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,534000,534000,167684.253
+C,M,2022,1,202201,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,942,942,867.326
+C,M,2022,1,202201,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,24186,24186,12005.181
+C,M,2022,1,202201,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,1357738,1357738,392539.157
+C,M,2022,1,202201,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,476000,476000,138281.213
+C,M,2022,1,202201,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,138155,138155,76461.943
+C,M,2022,1,202201,India,Export,USA,100829,"Cereals; millet, other than seed",kg,888,888,771.085
+C,M,2022,1,202201,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,60000,60000,20181.238
+C,M,2022,2,202202,India,Export,World,100829,"Cereals; millet, other than seed",kg,4195635,4195635,1450622.053
+C,M,2022,2,202202,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,2015,2015,2782.312
+C,M,2022,2,202202,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,145818,145818,48696.981
+C,M,2022,2,202202,India,Export,Bangladesh,100829,"Cereals; millet, other than seed",kg,25000,25000,4934.548
+C,M,2022,2,202202,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,400,400,401.534
+C,M,2022,2,202202,India,Export,Bhutan,100829,"Cereals; millet, other than seed",kg,500,500,211.909
+C,M,2022,2,202202,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,22677,22677,15674.909
+C,M,2022,2,202202,India,Export,Dem. Rep. of the Congo,100829,"Cereals; millet, other than seed",kg,100,100,38.877
+C,M,2022,2,202202,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,150,150,108.5
+C,M,2022,2,202202,India,Export,Ireland,100829,"Cereals; millet, other than seed",kg,780,780,532.758
+C,M,2022,2,202202,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,12000,12000,6507.099
+C,M,2022,2,202202,India,Export,Italy,100829,"Cereals; millet, other than seed",kg,24000,24000,12099.511
+C,M,2022,2,202202,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,80225,80225,42854.424
+C,M,2022,2,202202,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,5060,5060,2291.243
+C,M,2022,2,202202,India,Export,Rep. of Korea,100829,"Cereals; millet, other than seed",kg,23000,23000,12626.991
+C,M,2022,2,202202,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,176960,176960,55629.204
+C,M,2022,2,202202,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,25000,25000,14296.407
+C,M,2022,2,202202,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,5150,5150,4616.191
+C,M,2022,2,202202,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,4050,4050,2477.683
+C,M,2022,2,202202,India,Export,"Other Asia, nes",100829,"Cereals; millet, other than seed",kg,30,30,38.797
+C,M,2022,2,202202,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,181000,181000,74224.112
+C,M,2022,2,202202,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,215250,215250,61405.964
+C,M,2022,2,202202,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,2000,2000,1172.83
+C,M,2022,2,202202,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,934,934,896.815
+C,M,2022,2,202202,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,24,24,50.338
+C,M,2022,2,202202,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,167940,167940,56457.848
+C,M,2022,2,202202,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1884000,1884000,596731.303
+C,M,2022,2,202202,India,Export,Sierra Leone,100829,"Cereals; millet, other than seed",kg,9,9,2.172
+C,M,2022,2,202202,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,201,201,269.698
+C,M,2022,2,202202,India,Export,Spain,100829,"Cereals; millet, other than seed",kg,24000,24000,8204.717
+C,M,2022,2,202202,India,Export,Thailand,100829,"Cereals; millet, other than seed",kg,183000,183000,91273.791
+C,M,2022,2,202202,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,674427,674427,207467.533
+C,M,2022,2,202202,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,152000,152000,37660.467
+C,M,2022,2,202202,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,151720,151720,80931.485
+C,M,2022,2,202202,India,Export,USA,100829,"Cereals; millet, other than seed",kg,6215,6215,7053.104
+C,M,2022,3,202203,India,Export,World,100829,"Cereals; millet, other than seed",kg,4188766,4188766,1556982.217
+C,M,2022,3,202203,India,Export,Angola,100829,"Cereals; millet, other than seed",kg,500,500,172.026
+C,M,2022,3,202203,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,1660,1660,939.74
+C,M,2022,3,202203,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,166805,166805,73055.669
+C,M,2022,3,202203,India,Export,Bhutan,100829,"Cereals; millet, other than seed",kg,12,12,14.388
+C,M,2022,3,202203,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,29135,29135,19320.016
+C,M,2022,3,202203,India,Export,France,100829,"Cereals; millet, other than seed",kg,1090,1090,1656.762
+C,M,2022,3,202203,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,1000,1000,753.366
+C,M,2022,3,202203,India,Export,Hungary,100829,"Cereals; millet, other than seed",kg,21000,21000,14401.275
+C,M,2022,3,202203,India,Export,Iran,100829,"Cereals; millet, other than seed",kg,144000,144000,55331.466
+C,M,2022,3,202203,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,8000,8000,4318.934
+C,M,2022,3,202203,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,39250,39250,22224.895
+C,M,2022,3,202203,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,2750,2750,902.675
+C,M,2022,3,202203,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,174374,174374,61423.04
+C,M,2022,3,202203,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,75000,75000,29551.01
+C,M,2022,3,202203,India,Export,Madagascar,100829,"Cereals; millet, other than seed",kg,100,100,89.042
+C,M,2022,3,202203,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,24286,24286,16290.932
+C,M,2022,3,202203,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,7750,7750,4571.543
+C,M,2022,3,202203,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,268000,268000,101445.008
+C,M,2022,3,202203,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,589435,589435,202988.476
+C,M,2022,3,202203,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,184,184,326.817
+C,M,2022,3,202203,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,1748,1748,2823.823
+C,M,2022,3,202203,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,175,175,101.988
+C,M,2022,3,202203,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,213925,213925,71050.016
+C,M,2022,3,202203,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1355196,1355196,493604.49
+C,M,2022,3,202203,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,475,475,370.65
+C,M,2022,3,202203,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,20000,20000,12475.68
+C,M,2022,3,202203,India,Export,Spain,100829,"Cereals; millet, other than seed",kg,25000,25000,9481.221
+C,M,2022,3,202203,India,Export,Thailand,100829,"Cereals; millet, other than seed",kg,166900,166900,78345.611
+C,M,2022,3,202203,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,351994,351994,123975.721
+C,M,2022,3,202203,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,308000,308000,76134.907
+C,M,2022,3,202203,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,76723,76723,36579.595
+C,M,2022,3,202203,India,Export,USA,100829,"Cereals; millet, other than seed",kg,14299,14299,8253.789
+C,M,2022,3,202203,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,100000,100000,34007.646
+C,M,2022,4,202204,India,Export,World,100829,"Cereals; millet, other than seed",kg,2489218,2489218,1127880.178
+C,M,2022,4,202204,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,79000,79000,32722.435
+C,M,2022,4,202204,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,36,36,96.9
+C,M,2022,4,202204,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,87828,87828,36644.462
+C,M,2022,4,202204,India,Export,Bangladesh,100829,"Cereals; millet, other than seed",kg,30000,30000,9611.551
+C,M,2022,4,202204,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,121200,121200,62907.872
+C,M,2022,4,202204,India,Export,Bhutan,100829,"Cereals; millet, other than seed",kg,16,16,346.54
+C,M,2022,4,202204,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,55334,55334,33334.602
+C,M,2022,4,202204,India,Export,Fiji,100829,"Cereals; millet, other than seed",kg,225,225,88.722
+C,M,2022,4,202204,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,7076,7076,17001.115
+C,M,2022,4,202204,India,Export,Greece,100829,"Cereals; millet, other than seed",kg,40000,40000,19110.504
+C,M,2022,4,202204,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,23,23,33.814
+C,M,2022,4,202204,India,Export,Iran,100829,"Cereals; millet, other than seed",kg,144000,144000,55599.128
+C,M,2022,4,202204,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,20000,20000,12691.238
+C,M,2022,4,202204,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,105000,105000,52501.865
+C,M,2022,4,202204,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,9150,9150,3942.531
+C,M,2022,4,202204,India,Export,Rep. of Korea,100829,"Cereals; millet, other than seed",kg,43000,43000,22601.641
+C,M,2022,4,202204,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,239856,239856,104580.913
+C,M,2022,4,202204,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,240000,240000,92377.35
+C,M,2022,4,202204,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,25250,25250,14199.316
+C,M,2022,4,202204,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,5540,5540,3293.938
+C,M,2022,4,202204,India,Export,Mauritius,100829,"Cereals; millet, other than seed",kg,200,200,136.227
+C,M,2022,4,202204,India,Export,"Other Asia, nes",100829,"Cereals; millet, other than seed",kg,20010,20010,9810.877
+C,M,2022,4,202204,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,91160,91160,34301.33
+C,M,2022,4,202204,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,300,300,118.138
+C,M,2022,4,202204,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,240,240,394.845
+C,M,2022,4,202204,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,430,430,279.161
+C,M,2022,4,202204,India,Export,Portugal,100829,"Cereals; millet, other than seed",kg,44250,44250,25110.601
+C,M,2022,4,202204,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,85500,85500,31758.569
+C,M,2022,4,202204,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,491600,491600,196054.503
+C,M,2022,4,202204,India,Export,Seychelles,100829,"Cereals; millet, other than seed",kg,839,839,1025.416
+C,M,2022,4,202204,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,1626,1626,1421.692
+C,M,2022,4,202204,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,65350,65350,40692.951
+C,M,2022,4,202204,India,Export,Thailand,100829,"Cereals; millet, other than seed",kg,42000,42000,20654.338
+C,M,2022,4,202204,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,106687,106687,43727.299
+C,M,2022,4,202204,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,185200,185200,112347.915
+C,M,2022,4,202204,India,Export,USA,100829,"Cereals; millet, other than seed",kg,2292,2292,2551.778
+C,M,2022,4,202204,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,99000,99000,33808.101
+C,M,2022,5,202205,India,Export,World,100829,"Cereals; millet, other than seed",kg,3396175,3396175,1489952.878
+C,M,2022,5,202205,India,Export,Afghanistan,100829,"Cereals; millet, other than seed",kg,72000,72000,27818.679
+C,M,2022,5,202205,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,1325,1325,1447.447
+C,M,2022,5,202205,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,71000,71000,34457.41
+C,M,2022,5,202205,India,Export,Bangladesh,100829,"Cereals; millet, other than seed",kg,30000,30000,9698.392
+C,M,2022,5,202205,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,48000,48000,22612.055
+C,M,2022,5,202205,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,106265,106265,55873.578
+C,M,2022,5,202205,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,161,161,213.804
+C,M,2022,5,202205,India,Export,Iran,100829,"Cereals; millet, other than seed",kg,216000,216000,94308.561
+C,M,2022,5,202205,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,9060,9060,5833.626
+C,M,2022,5,202205,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,314160,314160,155034.122
+C,M,2022,5,202205,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,4910,4910,1427.877
+C,M,2022,5,202205,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,159900,159900,86551.477
+C,M,2022,5,202205,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,11000,11000,6565.065
+C,M,2022,5,202205,India,Export,"Other Asia, nes",100829,"Cereals; millet, other than seed",kg,47250,47250,21876.916
+C,M,2022,5,202205,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,152355,152355,52328.593
+C,M,2022,5,202205,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,46500,46500,21558.325
+C,M,2022,5,202205,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,308,308,266.54
+C,M,2022,5,202205,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,243005,243005,95188.158
+C,M,2022,5,202205,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,938200,938200,416602.18
+C,M,2022,5,202205,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,1256,1256,801.612
+C,M,2022,5,202205,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,333191,333191,147180.349
+C,M,2022,5,202205,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,231407,231407,78857.283
+C,M,2022,5,202205,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,161524,161524,85247.699
+C,M,2022,5,202205,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,740,740,418.928
+C,M,2022,5,202205,India,Export,USA,100829,"Cereals; millet, other than seed",kg,658,658,979.689
+C,M,2022,5,202205,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,196000,196000,66804.514
+C,M,2022,6,202206,India,Export,World,100829,"Cereals; millet, other than seed",kg,7257342,7257342,2830631.496
+C,M,2022,6,202206,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,135000,135000,52777.034
+C,M,2022,6,202206,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,500,500,58.633
+C,M,2022,6,202206,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,182250,182250,66562.74
+C,M,2022,6,202206,India,Export,Bangladesh,100829,"Cereals; millet, other than seed",kg,25000,25000,8286.153
+C,M,2022,6,202206,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,93000,93000,43314.038
+C,M,2022,6,202206,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,28454,28454,16519.512
+C,M,2022,6,202206,India,Export,Congo,100829,"Cereals; millet, other than seed",kg,50,50,29.009
+C,M,2022,6,202206,India,Export,Dem. Rep. of the Congo,100829,"Cereals; millet, other than seed",kg,40,40,41.215
+C,M,2022,6,202206,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,1970,1970,1769.761
+C,M,2022,6,202206,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,450,450,497.385
+C,M,2022,6,202206,India,Export,Hungary,100829,"Cereals; millet, other than seed",kg,23000,23000,10096.936
+C,M,2022,6,202206,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,5075,5075,1797.093
+C,M,2022,6,202206,India,Export,Italy,100829,"Cereals; millet, other than seed",kg,20500,20500,15787.222
+C,M,2022,6,202206,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,147500,147500,68955.478
+C,M,2022,6,202206,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,6870,6870,2213.636
+C,M,2022,6,202206,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,51707,51707,25141.212
+C,M,2022,6,202206,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,24000,24000,13141.264
+C,M,2022,6,202206,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,6000,6000,2530.484
+C,M,2022,6,202206,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,3750,3750,2216.044
+C,M,2022,6,202206,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,75000,75000,27652.715
+C,M,2022,6,202206,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,449975,449975,147493.243
+C,M,2022,6,202206,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,1289,1289,1018.516
+C,M,2022,6,202206,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,600,600,358.153
+C,M,2022,6,202206,India,Export,Portugal,100829,"Cereals; millet, other than seed",kg,20000,20000,13278.972
+C,M,2022,6,202206,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,122550,122550,45371.728
+C,M,2022,6,202206,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,3218240,3218240,1339214.722
+C,M,2022,6,202206,India,Export,Seychelles,100829,"Cereals; millet, other than seed",kg,900,900,1264.627
+C,M,2022,6,202206,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,30,30,11.079
+C,M,2022,6,202206,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,208760,208760,95251.697
+C,M,2022,6,202206,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,2210025,2210025,699921.384
+C,M,2022,6,202206,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,119375,119375,74478.239
+C,M,2022,6,202206,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,1130,1130,471.475
+C,M,2022,6,202206,India,Export,USA,100829,"Cereals; millet, other than seed",kg,24352,24352,35975.306
+C,M,2022,6,202206,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,50000,50000,17134.791
+C,M,2022,7,202207,India,Export,World,100829,"Cereals; millet, other than seed",kg,5696501,5696501,2272496.419
+C,M,2022,7,202207,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,84000,84000,43602.693
+C,M,2022,7,202207,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,1068,1068,974.726
+C,M,2022,7,202207,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,244062,244062,84321.737
+C,M,2022,7,202207,India,Export,Bhutan,100829,"Cereals; millet, other than seed",kg,750,750,310.854
+C,M,2022,7,202207,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,31539,31539,15457.387
+C,M,2022,7,202207,India,Export,Dem. Rep. of the Congo,100829,"Cereals; millet, other than seed",kg,20,20,15.876
+C,M,2022,7,202207,India,Export,Fiji,100829,"Cereals; millet, other than seed",kg,75,75,26.928
+C,M,2022,7,202207,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,350,350,310.817
+C,M,2022,7,202207,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,2000,2000,1223.146
+C,M,2022,7,202207,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,37500,37500,15836.365
+C,M,2022,7,202207,India,Export,Italy,100829,"Cereals; millet, other than seed",kg,23000,23000,12041.254
+C,M,2022,7,202207,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,104500,104500,53686.281
+C,M,2022,7,202207,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,2612,2612,1102.158
+C,M,2022,7,202207,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,128045,128045,51127.001
+C,M,2022,7,202207,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,156000,156000,59763.992
+C,M,2022,7,202207,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,45,45,72.859
+C,M,2022,7,202207,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,7000,7000,3939.184
+C,M,2022,7,202207,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,81000,81000,30198.904
+C,M,2022,7,202207,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,173100,173100,58057.86
+C,M,2022,7,202207,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,297,297,311.809
+C,M,2022,7,202207,India,Export,Curaçao,100829,"Cereals; millet, other than seed",kg,122,122,398.396
+C,M,2022,7,202207,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,288,288,200.642
+C,M,2022,7,202207,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,32,32,51.721
+C,M,2022,7,202207,India,Export,Philippines,100829,"Cereals; millet, other than seed",kg,750,750,407.263
+C,M,2022,7,202207,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,104340,104340,35503.084
+C,M,2022,7,202207,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,2740540,2740540,1205803.624
+C,M,2022,7,202207,India,Export,Seychelles,100829,"Cereals; millet, other than seed",kg,1750,1750,491.401
+C,M,2022,7,202207,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,505,505,355.09
+C,M,2022,7,202207,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,28514,28514,19680.183
+C,M,2022,7,202207,India,Export,Spain,100829,"Cereals; millet, other than seed",kg,22950,22950,10487.347
+C,M,2022,7,202207,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,1543291,1543291,481856.117
+C,M,2022,7,202207,India,Export,Uganda,100829,"Cereals; millet, other than seed",kg,1500,1500,604.251
+C,M,2022,7,202207,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,79050,79050,44692.906
+C,M,2022,7,202207,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,358,358,192.906
+C,M,2022,7,202207,India,Export,USA,100829,"Cereals; millet, other than seed",kg,3548,3548,5458.301
+C,M,2022,7,202207,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,92000,92000,33931.354
+C,M,2022,8,202208,India,Export,World,100829,"Cereals; millet, other than seed",kg,2992691,2992691,1178811.062
+C,M,2022,8,202208,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,329000,329000,121500.386
+C,M,2022,8,202208,India,Export,Angola,100829,"Cereals; millet, other than seed",kg,1000,1000,345.572
+C,M,2022,8,202208,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,769,769,1426.635
+C,M,2022,8,202208,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,96900,96900,38053.542
+C,M,2022,8,202208,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,11043,11043,17991.425
+C,M,2022,8,202208,India,Export,Fiji,100829,"Cereals; millet, other than seed",kg,75,75,28.974
+C,M,2022,8,202208,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,81,81,197.146
+C,M,2022,8,202208,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,60010,60010,29030.056
+C,M,2022,8,202208,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,21630,21630,14418.63
+C,M,2022,8,202208,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,520,520,154.032
+C,M,2022,8,202208,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,1255,1255,1445.062
+C,M,2022,8,202208,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,301925,301925,127150.346
+C,M,2022,8,202208,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,6000,6000,5764.246
+C,M,2022,8,202208,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,8250,8250,4743.23
+C,M,2022,8,202208,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,375000,375000,145272.009
+C,M,2022,8,202208,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,771,771,549.632
+C,M,2022,8,202208,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,996,996,1085.198
+C,M,2022,8,202208,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,110,110,94.853
+C,M,2022,8,202208,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,26815,26815,9540.763
+C,M,2022,8,202208,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1073500,1073500,393289.908
+C,M,2022,8,202208,India,Export,Senegal,100829,"Cereals; millet, other than seed",kg,10,10,4.085
+C,M,2022,8,202208,India,Export,Sierra Leone,100829,"Cereals; millet, other than seed",kg,20,20,14.418
+C,M,2022,8,202208,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,930,930,530.111
+C,M,2022,8,202208,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,635,635,310.552
+C,M,2022,8,202208,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,325588,325588,119212.511
+C,M,2022,8,202208,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,140000,140000,45329.987
+C,M,2022,8,202208,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,106189,106189,58125.061
+C,M,2022,8,202208,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,890,890,571.252
+C,M,2022,8,202208,India,Export,USA,100829,"Cereals; millet, other than seed",kg,3779,3779,4207.212
+C,M,2022,8,202208,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,99000,99000,38424.229
+C,M,2022,9,202209,India,Export,World,100829,"Cereals; millet, other than seed",kg,7179030.685,7179030.685,2736418.682
+C,M,2022,9,202209,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,623000,623000,252051.423
+C,M,2022,9,202209,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,125060,125060,43045.907
+C,M,2022,9,202209,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,116500,116500,56145.9
+C,M,2022,9,202209,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,20789,20789,9579.966
+C,M,2022,9,202209,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,60,60,142.608
+C,M,2022,9,202209,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,110,110,92.887
+C,M,2022,9,202209,India,Export,Italy,100829,"Cereals; millet, other than seed",kg,600,600,1054.323
+C,M,2022,9,202209,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,19840,19840,12783.411
+C,M,2022,9,202209,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,1900,1900,733.579
+C,M,2022,9,202209,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,76850,76850,31476.189
+C,M,2022,9,202209,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,1339850,1339850,590784.782
+C,M,2022,9,202209,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,27575,27575,15676.753
+C,M,2022,9,202209,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,1500,1500,853.221
+C,M,2022,9,202209,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,736750,736750,289530.377
+C,M,2022,9,202209,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,185755,185755,64471.698
+C,M,2022,9,202209,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,24560,24560,7535.009
+C,M,2022,9,202209,India,Export,New Zealand,100829,"Cereals; millet, other than seed",kg,788,788,680.418
+C,M,2022,9,202209,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,300,300,183.619
+C,M,2022,9,202209,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,131400,131400,44029.163
+C,M,2022,9,202209,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1307380,1307380,495118.199
+C,M,2022,9,202209,India,Export,Sierra Leone,100829,"Cereals; millet, other than seed",kg,30,30,10.592
+C,M,2022,9,202209,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,1882,1882,1454.235
+C,M,2022,9,202209,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,1589942,1589942,509647.89
+C,M,2022,9,202209,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,250000,250000,80096.849
+C,M,2022,9,202209,India,Export,Uganda,100829,"Cereals; millet, other than seed",kg,12.685,12.685,4.835
+C,M,2022,9,202209,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,86462,86462,48336.689
+C,M,2022,9,202209,India,Export,USA,100829,"Cereals; millet, other than seed",kg,135,135,158.871
+C,M,2022,9,202209,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,510000,510000,180739.289
+C,M,2022,10,202210,India,Export,World,100829,"Cereals; millet, other than seed",kg,7785610,7785610,2694169.507
+C,M,2022,10,202210,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,1900,1900,1417.756
+C,M,2022,10,202210,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,49000,49000,16232.484
+C,M,2022,10,202210,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,3228,3228,3154.059
+C,M,2022,10,202210,India,Export,Equatorial Guinea,100829,"Cereals; millet, other than seed",kg,200,200,156.917
+C,M,2022,10,202210,India,Export,Georgia,100829,"Cereals; millet, other than seed",kg,510,510,291.123
+C,M,2022,10,202210,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,2310,2310,4041.6
+C,M,2022,10,202210,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,71420,71420,30602.305
+C,M,2022,10,202210,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,42000,42000,21573.181
+C,M,2022,10,202210,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,4100,4100,1769.848
+C,M,2022,10,202210,India,Export,Rep. of Korea,100829,"Cereals; millet, other than seed",kg,23000,23000,10847.469
+C,M,2022,10,202210,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,25500,25500,9953.648
+C,M,2022,10,202210,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,1188000,1188000,471740.674
+C,M,2022,10,202210,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,22000,22000,10617.692
+C,M,2022,10,202210,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,516000,516000,212417.843
+C,M,2022,10,202210,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,289181,289181,88036.058
+C,M,2022,10,202210,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,290340,290340,73155.588
+C,M,2022,10,202210,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,360,360,388.127
+C,M,2022,10,202210,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,1650,1650,980.647
+C,M,2022,10,202210,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,153500,153500,45412.357
+C,M,2022,10,202210,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1505520,1505520,510043.834
+C,M,2022,10,202210,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,3696,3696,1957.505
+C,M,2022,10,202210,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,470600,470600,218213.527
+C,M,2022,10,202210,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,1705200,1705200,515182.81
+C,M,2022,10,202210,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,216000,216000,39075.661
+C,M,2022,10,202210,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,9705,9705,8492.521
+C,M,2022,10,202210,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,2008,2008,1070.704
+C,M,2022,10,202210,India,Export,USA,100829,"Cereals; millet, other than seed",kg,3802,3802,4154.904
+C,M,2022,10,202210,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,1184880,1184880,393188.667
+C,M,2022,11,202211,India,Export,World,100829,"Cereals; millet, other than seed",kg,9985489.072,9985489.072,3393293
+C,M,2022,11,202211,India,Export,Algeria,100829,"Cereals; millet, other than seed",kg,72000,72000,23778.847
+C,M,2022,11,202211,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,6189,6189,6592.212
+C,M,2022,11,202211,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,180,180,263.285
+C,M,2022,11,202211,India,Export,Bangladesh,100829,"Cereals; millet, other than seed",kg,2457890,2457890,662474.556
+C,M,2022,11,202211,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,92797,92797,93024.348
+C,M,2022,11,202211,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,27263,27263,14173.171
+C,M,2022,11,202211,India,Export,Dem. Rep. of the Congo,100829,"Cereals; millet, other than seed",kg,50,50,45.339
+C,M,2022,11,202211,India,Export,Fiji,100829,"Cereals; millet, other than seed",kg,60,60,21.118
+C,M,2022,11,202211,India,Export,Germany,100829,"Cereals; millet, other than seed",kg,600,600,468.337
+C,M,2022,11,202211,India,Export,Hungary,100829,"Cereals; millet, other than seed",kg,22000,22000,13434.547
+C,M,2022,11,202211,India,Export,Iran,100829,"Cereals; millet, other than seed",kg,138600,138600,52377.182
+C,M,2022,11,202211,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,21000,21000,14662.137
+C,M,2022,11,202211,India,Export,Italy,100829,"Cereals; millet, other than seed",kg,72000,72000,104838.283
+C,M,2022,11,202211,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,4670,4670,1434.122
+C,M,2022,11,202211,India,Export,Rep. of Korea,100829,"Cereals; millet, other than seed",kg,21000,21000,9722.689
+C,M,2022,11,202211,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,105280,105280,39758.055
+C,M,2022,11,202211,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,736000,736000,293778.516
+C,M,2022,11,202211,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,25000,25000,14713.416
+C,M,2022,11,202211,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,6000,6000,3343.474
+C,M,2022,11,202211,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,469000,469000,184797.971
+C,M,2022,11,202211,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,476250,476250,146612.72
+C,M,2022,11,202211,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,771160,771160,215562.881
+C,M,2022,11,202211,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,23600,23600,12175.329
+C,M,2022,11,202211,India,Export,Portugal,100829,"Cereals; millet, other than seed",kg,15500,15500,8425.954
+C,M,2022,11,202211,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,236080,236080,73527.532
+C,M,2022,11,202211,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1027520,1027520,339902.307
+C,M,2022,11,202211,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,1056,1056,698.809
+C,M,2022,11,202211,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,192350,192350,66606.752
+C,M,2022,11,202211,India,Export,Spain,100829,"Cereals; millet, other than seed",kg,22000,22000,9896.506
+C,M,2022,11,202211,India,Export,Thailand,100829,"Cereals; millet, other than seed",kg,160000,160000,67525.902
+C,M,2022,11,202211,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,1184670,1184670,346850.828
+C,M,2022,11,202211,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,411000,411000,161955.763
+C,M,2022,11,202211,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,73839,73839,45788.783
+C,M,2022,11,202211,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,280,280,205.334
+C,M,2022,11,202211,India,Export,USA,100829,"Cereals; millet, other than seed",kg,9605.072,9605.072,9379.823
+C,M,2022,11,202211,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,1103000,1103000,354476.174
+C,M,2022,12,202212,India,Export,World,100829,"Cereals; millet, other than seed",kg,9623879,9623879,3592443.843
+C,M,2022,12,202212,India,Export,Afghanistan,100829,"Cereals; millet, other than seed",kg,70000,70000,32486.207
+C,M,2022,12,202212,India,Export,Australia,100829,"Cereals; millet, other than seed",kg,500,500,462.54
+C,M,2022,12,202212,India,Export,Bahrain,100829,"Cereals; millet, other than seed",kg,304260,304260,110145.624
+C,M,2022,12,202212,India,Export,Belgium,100829,"Cereals; millet, other than seed",kg,290000,290000,166312.002
+C,M,2022,12,202212,India,Export,Bhutan,100829,"Cereals; millet, other than seed",kg,750,750,300.13
+C,M,2022,12,202212,India,Export,Brunei Darussalam,100829,"Cereals; millet, other than seed",kg,500,500,141.613
+C,M,2022,12,202212,India,Export,Canada,100829,"Cereals; millet, other than seed",kg,45136,45136,31173.031
+C,M,2022,12,202212,India,Export,Fiji,100829,"Cereals; millet, other than seed",kg,60,60,25.32
+C,M,2022,12,202212,India,Export,Ghana,100829,"Cereals; millet, other than seed",kg,675,675,652.974
+C,M,2022,12,202212,India,Export,Greece,100829,"Cereals; millet, other than seed",kg,19550,19550,12543.924
+C,M,2022,12,202212,India,Export,"China, Hong Kong SAR",100829,"Cereals; millet, other than seed",kg,100,100,62.039
+C,M,2022,12,202212,India,Export,Iran,100829,"Cereals; millet, other than seed",kg,163600,163600,71888.006
+C,M,2022,12,202212,India,Export,Israel,100829,"Cereals; millet, other than seed",kg,13075,13075,5474.701
+C,M,2022,12,202212,India,Export,Japan,100829,"Cereals; millet, other than seed",kg,42104,42104,19090.969
+C,M,2022,12,202212,India,Export,Kenya,100829,"Cereals; millet, other than seed",kg,2800,2800,903.143
+C,M,2022,12,202212,India,Export,Kuwait,100829,"Cereals; millet, other than seed",kg,144944,144944,52595.617
+C,M,2022,12,202212,India,Export,Libya,100829,"Cereals; millet, other than seed",kg,891000,891000,340873.034
+C,M,2022,12,202212,India,Export,Malaysia,100829,"Cereals; millet, other than seed",kg,20850,20850,14819.044
+C,M,2022,12,202212,India,Export,Maldives,100829,"Cereals; millet, other than seed",kg,2770,2770,1740.464
+C,M,2022,12,202212,India,Export,Mauritius,100829,"Cereals; millet, other than seed",kg,72,72,141.783
+C,M,2022,12,202212,India,Export,"Other Asia, nes",100829,"Cereals; millet, other than seed",kg,138000,138000,54872.81
+C,M,2022,12,202212,India,Export,Morocco,100829,"Cereals; millet, other than seed",kg,663000,663000,260215.408
+C,M,2022,12,202212,India,Export,Mozambique,100829,"Cereals; millet, other than seed",kg,600,600,238.055
+C,M,2022,12,202212,India,Export,Oman,100829,"Cereals; millet, other than seed",kg,490540,490540,244466.943
+C,M,2022,12,202212,India,Export,Namibia,100829,"Cereals; millet, other than seed",kg,352500,352500,113272.131
+C,M,2022,12,202212,India,Export,Nepal,100829,"Cereals; millet, other than seed",kg,482840,482840,140457.422
+C,M,2022,12,202212,India,Export,Netherlands,100829,"Cereals; millet, other than seed",kg,92500,92500,46629.891
+C,M,2022,12,202212,India,Export,Nigeria,100829,"Cereals; millet, other than seed",kg,550,550,333.539
+C,M,2022,12,202212,India,Export,Qatar,100829,"Cereals; millet, other than seed",kg,298529,298529,114146.389
+C,M,2022,12,202212,India,Export,Saudi Arabia,100829,"Cereals; millet, other than seed",kg,1637920,1637920,599804.868
+C,M,2022,12,202212,India,Export,Singapore,100829,"Cereals; millet, other than seed",kg,1106,1106,1028.203
+C,M,2022,12,202212,India,Export,South Africa,100829,"Cereals; millet, other than seed",kg,170749,170749,66002.218
+C,M,2022,12,202212,India,Export,Thailand,100829,"Cereals; millet, other than seed",kg,90000,90000,41915.762
+C,M,2022,12,202212,India,Export,Togo,100829,"Cereals; millet, other than seed",kg,130,130,180.527
+C,M,2022,12,202212,India,Export,United Arab Emirates,100829,"Cereals; millet, other than seed",kg,2100211,2100211,651847.275
+C,M,2022,12,202212,India,Export,Tunisia,100829,"Cereals; millet, other than seed",kg,606000,606000,195782.295
+C,M,2022,12,202212,India,Export,United Kingdom,100829,"Cereals; millet, other than seed",kg,117468,117468,68967.152
+C,M,2022,12,202212,India,Export,United Rep. of Tanzania,100829,"Cereals; millet, other than seed",kg,2550,2550,3578.073
+C,M,2022,12,202212,India,Export,USA,100829,"Cereals; millet, other than seed",kg,9340,9340,6844.446
+C,M,2022,12,202212,India,Export,Yemen,100829,"Cereals; millet, other than seed",kg,356600,356600,120028.273
