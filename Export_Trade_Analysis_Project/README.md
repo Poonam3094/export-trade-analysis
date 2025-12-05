@@ -1,202 +1,143 @@
-📊 India’s Export Opportunity Analysis Dashboard
+🌍 India’s Export Opportunity Analysis Dashboard
 
+Ayurvedic Herbs | Turmeric | Millets (2020–2024)
+A data-driven trade intelligence project using Power BI + Python
 
+📌 Overview
 
-Product Categories: Ayurvedic Herbs | Turmeric | Millets
+This project delivers a comprehensive export market intelligence dashboard for the Indian agriculture & spices sector.
+Using historical trends, CAGR, pricing patterns, volatility dynamics, and market size analysis, the report identifies:
 
-This project delivers a comprehensive trade intelligence dashboard designed to identify high-potential export markets and high-value product opportunities for the Indian agriculture \& spices sector.
-Using historical trends, price dynamics, market growth, and volatility patterns, the report evaluates India’s performance relative to global exporters.
+High-potential product categories
 
+Low-risk & fast-growing export markets
 
+India’s competitiveness vs global exporters
 
+Strategic recommendations for Indian exporters
 
+The dashboard is designed to support export planners, policy teams, and businesses in making informed market-entry decisions.
 
-🚀 Project Objective
+🎯 Project Objectives
 
+The analysis evaluates India’s trade performance vs global competitors to:
 
+Identify high-growth product categories (Herbs, Turmeric, Millets)
 
-To analyze India’s export performance and global trade trends to :
+Discover fast-growing and low-volatility markets
 
-* Identify high-growth product categories (Herbs, Turmeric, Millets)
-* Discover fast-growing and low-risk export markets
-* Compare India’s competitiveness with global exporters
-* Build data-driven market attractiveness scores
-* Provide strategic insights for exporters and policymakers
+Compare India’s competitiveness with top global producers
 
+Build market attractiveness scores using multi-factor analysis
 
+Provide actionable insights & export strategy recommendations
 
+📊 Key Features
 
+✔ Multi-year trade analysis (2020–2024)
+✔ India vs Global comparison
+✔ Market share, CAGR, volatility, and pricing insights
+✔ Market Attractiveness Scoring Model
+✔ Executive insights for decision-makers
+✔ Clean Power BI design with custom theme
 
-📦 Project Structure
-/Export-Trade-Analysis
+🧮 Market Attractiveness Score
+
+A composite score built using:
+
+Factor	Weight
+CAGR (Normalized)	30%
+Market Size	25%
+India’s Export Value	20%
+Average Price	15%
+Volatility Index	10%
+
+This multi-factor model helps identify best product opportunities and most promising global buyers.
+
+🗂 Project Structure
+Export_Trade_Analysis_Project/
 │
-├── 📁 data\_raw
+├── Data/
 │   ├── Global.csv
 │   ├── Indian.csv
 │
-├── 📁 scripts
-│   ├── data\_preparation.py
+├── Docs/
+│   ├── Export_Trade_Analysis.pdf
+│
+├── Power BI/
+│   ├── Export_Trade_Analysis.pbix
+│
+├── Python Scripts/
+│   ├── data_preparation.py
 │   ├── EDA.py
 │
-├── 📁 powerbi\_dashboard
-│   ├── Export\_Trade\_Analysis.pbix
-│   ├── Export\_Trade\_Analysis.pdf
-│
-├── README.md
+└── README.md
 
+📚 Data Sources
 
+The dataset is based on trade data extracted from:
 
+UN Comtrade / ITC Trade Map
 
+Processed into product-specific datasets for:
 
-🧾 Data Sources
+Ayurvedic Herbs HS Code: 121190 
 
+Turmeric HS Code: 091030
 
+Millets HS Code: 100829
 
-The analysis is based on export \& global trade datasets downloaded from:
 
-UN Comtrade – https://comtradeplus.un.org
+🛠 Tools & Technologies
 
+Power BI – Dashboard creation & modeling
 
+Python (Pandas, NumPy, Matplotlib) – Data cleaning & EDA
 
-HS Codes Used
-Product	HS Code(s)
-Ayurvedic Herbs: 121190 (Plants \& parts used in perfumery/pharmacy)
-Turmeric: 091030
-Millets: 100829
+Excel – Initial preprocessing
 
+GitHub – Version control & portfolio hosting
 
+🧠 Key Insights (Summary)
 
+Ayurvedic herbs rank highest in market attractiveness due to low volatility & strong global demand
 
+Millets show the fastest CAGR (19.38%) driven by global food-security trends
 
-🛠 Tools \& Technologies
+India’s export growth (11–12%) outperforms the global average (5–6%)
 
+Saudi Arabia, Pakistan, Uzbekistan emerge as high-potential importers
 
+Stable pricing (USD 3–4/kg) in herbs indicates strong premium market positioning
 
-Purpose	Tool
-Data Cleaning	Python (Pandas, NumPy)
-Exploratory Data Analysis	Python (Matplotlib, Seaborn)
-Data Modelling	Power BI, DAX
-Visualization	Power BI
-Documentation	GitHub
+🚀 How to Use the Dashboard
 
+Clone/download this repository
 
+Open the .pbix file in Power BI Desktop
 
+Explore filters: Year, Product Category, Region
 
+Navigate:
 
-📈 Key Analytical Components
+Overview → Global vs India
 
+Comparative Review → Competitors & Partners
 
+Opportunity Analysis → Scoring & trends
 
-1️⃣ Data Cleaning \& Standardization (Python)
+Executive Insights → Recommendations
 
-Null handling
+🤝 Contributions
 
-Outlier detection
-
-HS-Code based filtering
-
-Unit corrections for weight, price, and quantity
-
-Created a clean master table for Power BI ingestion
-
-
-
-2️⃣ Trend \& Performance Analysis (Power BI)
-
-Export trends (YoY, CAGR)
-
-Price vs volume dynamics
-
-Trade value contribution
-
-Market segmentation by partner country
-
-
-
-3️⃣ Market Attractiveness Framework
-
-A weighted scoring model (0–1 normalized) evaluating:
-
-Indicator	Weight
-CAGR of India’s Exports	30%
-Global Market Size	25%
-India’s Export Value	20%
-Average Export Price	15%
-Volatility Index (Stability)	10%
-
-This model ranks the most promising countries for each product category.
-
-
-
-
-
-🔍 Key Insights Generated
-
-
-
-📌 Product Opportunity Insights
-
-Millets show the highest CAGR (~19.38%).
-
-Ayurvedic herbs fetch strong international price premiums.
-
-Turmeric has stable India dominated market, ideal for volume exports.
-
-
-
-🌍 High-Potential Markets
-
-Saudi Arabia, UAE, USA show strong demand + low volatility.
-
-Emerging markets include Pakistan, Mongolia, Benin, Uzbekistan.
-
-
-
-📊 Pricing Insights
-
-India’s herb export prices are below global benchmarks — margin opportunity.
-
-Millets show stable prices, making them low-risk for scaling.
-
-
-
-
-
-🗂 Files Included
-
-✔ Power BI Report (.pbix)
-✔ Full PDF Export for recruiters
-✔ Python cleaning \& EDA scripts
-✔ Raw datasets (Excel)
-✔ GitHub README
-
-
-
-
-
-🧑‍💻 How to Use This Repository
-
-Clone repo
-
-Install Python dependencies
-
-Explore raw data
-
-Run cleaning + EDA scripts
-
-Open Power BI (.pbix) to explore dashboard
-
-Use insights for research / commercial decision-making
-
-
-
-
+Contributions, suggestions, or improvements are welcome.
+Feel free to raise issues or submit pull requests.
 
 📬 Contact
-
 Poonam Saini
 Data Analyst | Business Analyst | Trade Analytics
 📧 poonam3094@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/poonam-saini-a05aa975/
 🔗 GitHub: https://github.com/Poonam3094a
+
 
