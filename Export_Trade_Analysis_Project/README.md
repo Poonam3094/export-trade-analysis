@@ -60,8 +60,8 @@ This multi-factor model helps identify best product opportunities and most promi
 Export_Trade_Analysis_Project/
 │
 ├── Data/
-│   ├── Global.csv
-│   └── Indian.csv
+│   ├── Global/
+│   └── Indian/
 │
 ├── Python_Scripts/
 │   ├── data_preparation.py
@@ -144,6 +144,7 @@ Data Analyst | Business Analyst | Trade Analytics
 📧 poonam3094@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/poonam-saini-a05aa975/
 🔗 GitHub: https://github.com/Poonam3094a
+
 
 
 
