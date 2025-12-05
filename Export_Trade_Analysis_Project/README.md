@@ -1,9 +1,9 @@
-🌍 India’s Export Opportunity Analysis Dashboard
+# 🌍 India’s Export Opportunity Analysis Dashboard
 
 Ayurvedic Herbs | Turmeric | Millets (2020–2024)
 A data-driven trade intelligence project using Power BI + Python
 
-📌 Overview
+## 📌 Overview
 
 This project delivers a comprehensive export market intelligence dashboard for the Indian agriculture & spices sector.
 Using historical trends, CAGR, pricing patterns, volatility dynamics, and market size analysis, the report identifies:
@@ -139,5 +139,6 @@ Data Analyst | Business Analyst | Trade Analytics
 📧 poonam3094@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/poonam-saini-a05aa975/
 🔗 GitHub: https://github.com/Poonam3094a
+
 
 
