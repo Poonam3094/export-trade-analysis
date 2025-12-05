@@ -144,11 +144,12 @@ Poonam Saini
 
 Data Analyst | Business Analyst | Trade Analytics
 
-📧 poonam3094@gmail.com
+📧 gmail: poonam3094@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/poonam-saini-a05aa975/
 
 🔗 GitHub: https://github.com/Poonam3094a
+
 
 
 
