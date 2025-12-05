@@ -54,25 +54,28 @@ Volatility Index	10%
 
 This multi-factor model helps identify best product opportunities and most promising global buyers.
 
-## 🗂 Project Structure
+## 📁 Project Structure
+
+```
 Export_Trade_Analysis_Project/
 │
 ├── Data/
-│   ├── Global.csv               
-│   ├── Indian.csv              
+│   ├── Global.csv
+│   └── Indian.csv
 │
 ├── Python_Scripts/
-│   ├── data_preparation.py     
-│   └── EDA.py                   
+│   ├── data_preparation.py
+│   └── EDA.py
 │
 ├── PowerBI/
-│   ├── Export_Trade_Analysis.pbix   
-│   └── Export_Trade_Analysis.pdf    
+│   ├── Export_Trade_Analysis.pbix
+│   └── Export_Trade_Analysis.pdf
 │
 ├── Docs/
-│   └── Screenshots       
+│   └── Screenshots/
 │
-└── README.md                        
+└── README.md
+```
 
 
 ## 📚 Data Sources
@@ -141,6 +144,7 @@ Data Analyst | Business Analyst | Trade Analytics
 📧 poonam3094@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/poonam-saini-a05aa975/
 🔗 GitHub: https://github.com/Poonam3094a
+
 
 
 
