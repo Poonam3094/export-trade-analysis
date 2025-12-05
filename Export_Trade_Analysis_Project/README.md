@@ -18,7 +18,7 @@ Strategic recommendations for Indian exporters
 
 The dashboard is designed to support export planners, policy teams, and businesses in making informed market-entry decisions.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 The analysis evaluates India’s trade performance vs global competitors to:
 
@@ -32,7 +32,7 @@ Build market attractiveness scores using multi-factor analysis
 
 Provide actionable insights & export strategy recommendations
 
-📊 Key Features
+## 📊 Key Features
 
 ✔ Multi-year trade analysis (2020–2024)
 ✔ India vs Global comparison
@@ -41,7 +41,7 @@ Provide actionable insights & export strategy recommendations
 ✔ Executive insights for decision-makers
 ✔ Clean Power BI design with custom theme
 
-🧮 Market Attractiveness Score
+## 🧮 Market Attractiveness Score
 
 A composite score built using:
 
@@ -54,26 +54,28 @@ Volatility Index	10%
 
 This multi-factor model helps identify best product opportunities and most promising global buyers.
 
-🗂 Project Structure
+## 🗂 Project Structure
 Export_Trade_Analysis_Project/
 │
 ├── Data/
-│   ├── Global.csv
-│   ├── Indian.csv
+│   ├── Global.csv               
+│   ├── Indian.csv              
+│
+├── Python_Scripts/
+│   ├── data_preparation.py     
+│   └── EDA.py                   
+│
+├── PowerBI/
+│   ├── Export_Trade_Analysis.pbix   
+│   └── Export_Trade_Analysis.pdf    
 │
 ├── Docs/
-│   ├── Export_Trade_Analysis.pdf
+│   └── Screenshots       
 │
-├── Power BI/
-│   ├── Export_Trade_Analysis.pbix
-│
-├── Python Scripts/
-│   ├── data_preparation.py
-│   ├── EDA.py
-│
-└── README.md
+└── README.md                        
 
-📚 Data Sources
+
+## 📚 Data Sources
 
 The dataset is based on trade data extracted from:
 
@@ -88,7 +90,7 @@ Turmeric HS Code: 091030
 Millets HS Code: 100829
 
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI – Dashboard creation & modeling
 
@@ -98,7 +100,7 @@ Excel – Initial preprocessing
 
 GitHub – Version control & portfolio hosting
 
-🧠 Key Insights (Summary)
+## 🧠 Key Insights (Summary)
 
 Ayurvedic herbs rank highest in market attractiveness due to low volatility & strong global demand
 
@@ -110,7 +112,7 @@ Saudi Arabia, Pakistan, Uzbekistan emerge as high-potential importers
 
 Stable pricing (USD 3–4/kg) in herbs indicates strong premium market positioning
 
-🚀 How to Use the Dashboard
+## 🚀 How to Use the Dashboard
 
 Clone/download this repository
 
@@ -128,17 +130,18 @@ Opportunity Analysis → Scoring & trends
 
 Executive Insights → Recommendations
 
-🤝 Contributions
+## 🤝 Contributions
 
 Contributions, suggestions, or improvements are welcome.
 Feel free to raise issues or submit pull requests.
 
-📬 Contact
+## 📬 Contact
 Poonam Saini
 Data Analyst | Business Analyst | Trade Analytics
 📧 poonam3094@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/poonam-saini-a05aa975/
 🔗 GitHub: https://github.com/Poonam3094a
+
 
 
 
